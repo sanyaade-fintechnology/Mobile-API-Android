@@ -1,5 +1,5 @@
 ### NOTE: 
-### Payleven and SumUp are now one company. The payleven APIs are no longer supported. Please see [SumUp's iOS API](https://github.com/sumup/sumup-ios-url-scheme).
+### Payleven and SumUp are now one company. The payleven APIs are no longer supported. Please see [SumUp's Android API](https://github.com/sumup/sumup-android-api).
 
 ---
 ---
