@@ -1,3 +1,10 @@
+### NOTE: 
+### Payleven and SumUp are now one company. The payleven APIs are no longer supported. Please see [SumUp's iOS API](https://github.com/sumup/sumup-ios-url-scheme).
+
+---
+---
+
+
 [![Platform](https://img.shields.io/badge/Platform-Android-brightgreen.svg?style=flat-square)](http://developer.android.com/index.html)
 [![Version](https://img.shields.io/badge/version-1.2.0-brightgreen.svg?style=flat-square)](https://github.com/payleven/mPOS-SDK-Android/releases/tag/1.2.0)
 [![API](https://img.shields.io/badge/API-14%2B-orange.svg?style=flat-square)](http://developer.android.com/about/versions/android-4.0.html)
